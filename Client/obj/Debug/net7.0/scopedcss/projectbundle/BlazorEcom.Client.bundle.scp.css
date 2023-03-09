@@ -14,7 +14,7 @@ main[b-ryc1qaheac] {
 }
 
 .top-row[b-ryc1qaheac] {
-    background-color: #f7f7f7;
+    background-color: teal;
     border-bottom: 1px solid #d6d5d5;
     justify-content: flex-end;
     height: 3.5rem;
@@ -147,5 +147,43 @@ main[b-ryc1qaheac] {
         /* Allow sidebar to scroll for tall menus */
         height: calc(100vh - 3.5rem);
         overflow-y: auto;
+    }
+}
+/* /Shared/ProductList.razor.rz.scp.css */
+.media-img[b-1b7bgfauln] {
+     max-height: 200px;
+     max-width: 200px;
+     border-radius: 6px;
+     margin-bottom: 10px;
+     transition: transform .2s;
+ }
+
+.media-img:hover[b-1b7bgfauln] {
+    transform: scale(1.1);
+}
+
+.media-img-wrapper[b-1b7bgfauln] {
+    width: 200px;
+    text-align: center;
+}
+.media[b-1b7bgfauln] {
+    display: flex;
+    align-items: flex-start;
+}
+.media-body[b-1b7bgfauln] {
+    flex: 1;
+}
+.price[b-1b7bgfauln] {
+    color: green;
+}
+
+@media (max-width: 1023.98px) {
+    .media[b-1b7bgfauln] {
+        flex-direction: column;
+    }
+
+    .media-img-wrapper[b-1b7bgfauln] {
+        width: 100%;
+        height: auto;
     }
 }

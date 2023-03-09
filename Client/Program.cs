@@ -1,3 +1,4 @@
+global using BlazorEcom.Shared;
 using BlazorEcom.Client;
 using Microsoft.AspNetCore.Components.Web;
 using Microsoft.AspNetCore.Components.WebAssembly.Hosting;
