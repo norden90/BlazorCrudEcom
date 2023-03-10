@@ -26,6 +26,15 @@ namespace BlazorEcom.Server.Services.ProductService
             }
             return response;
         }
+        public async Task<ServiceResponse<List<Product>>> GetProductsAsync()
+        {
+            var response = new ServiceResponse<List<Product>>()
+            {
+                Data = await _context.Products.ToListAsync()
+            };
+
+            return response;
+        }
 
         public async Task<ServiceResponse<List<Product>>> GetProductsByCategory(string categoryUrl)
         {
@@ -39,15 +48,6 @@ namespace BlazorEcom.Server.Services.ProductService
             return response;
         }
 
-        public async Task<ServiceResponse<List<Product>>> GetProductsAsync()
-        {
-            var response = new ServiceResponse<List<Product>>()
-            {
-                Data = await _context.Products.ToListAsync()
-            };
-
-            return response;
-        }
 
     }
 }
