@@ -839,3 +839,4 @@ C:\Users\nordf\OneDrive\Skrivbord\Lekprojekt\BlazorEcom\BlazorEcom\Client\obj\De
 C:\Users\nordf\OneDrive\Skrivbord\Lekprojekt\BlazorEcom\BlazorEcom\Client\obj\Debug\net7.0\BlazorEcom.Client.pdb
 C:\Users\nordf\OneDrive\Skrivbord\Lekprojekt\BlazorEcom\BlazorEcom\Client\obj\Debug\net7.0\ref\BlazorEcom.Client.dll
 C:\Users\nordf\OneDrive\Skrivbord\Lekprojekt\BlazorEcom\BlazorEcom\Client\obj\Debug\net7.0\scopedcss\Shared\ProductList.razor.rz.scp.css
+C:\Users\nordf\OneDrive\Skrivbord\Lekprojekt\BlazorEcom\BlazorEcom\Client\obj\Debug\net7.0\scopedcss\Pages\ProductDetails.razor.rz.scp.css

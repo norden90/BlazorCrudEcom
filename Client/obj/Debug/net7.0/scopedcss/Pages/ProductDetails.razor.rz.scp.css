@@ -1,0 +1,20 @@
+.media-img[b-9dbq9p9mkb] {
+    max-height: 500px;
+    max-width: 500px;
+    border-radius: 6px;
+    margin: 0 10px 10px 10px;
+}
+.media-img-wrapper[b-9dbq9p9mkb] {
+    max-width: 500px;
+    max-height: 500px;
+    text-align: center;
+}
+@media(max-width: 1023.98px) {
+    .media-img[b-9dbq9p9mkb] {
+        max-width: 300px;
+    }
+    .media-img-wrapper[b-9dbq9p9mkb] {
+        width: 100%;
+        height: auto;
+    }
+}
