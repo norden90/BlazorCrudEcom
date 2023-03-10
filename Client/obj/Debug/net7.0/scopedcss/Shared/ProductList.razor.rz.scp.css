@@ -14,14 +14,6 @@
     width: 200px;
     text-align: center;
 }
-.media[b-1b7bgfauln] {
-    display: flex;
-    align-items: flex-start;
-}
-.media-body[b-1b7bgfauln] {
-    flex: 1;
-}
-
 @media (max-width: 1023.98px) {
     .media[b-1b7bgfauln] {
         flex-direction: column;

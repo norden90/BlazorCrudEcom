@@ -1,7 +1,7 @@
 ﻿self.assetsManifest = {
   "assets": [
     {
-      "hash": "sha256-iSJEMf6p4Z+wxrJLzLh3xFz\/bgjJ8KEkVVo3kTOQXCY=",
+      "hash": "sha256-KWDODOW6upaHYg1\/BMDVEIqBDBT9Kl\/5ImY0zgP2YvE=",
       "url": "css\/app.css"
     },
     {
@@ -69,7 +69,7 @@
       "url": "manifest.json"
     },
     {
-      "hash": "sha256-EmeU6+KFYDpv9vooWp1YBV2cPEOtAJu0DrbuLMtNecE=",
+      "hash": "sha256-n7TDQWxeVoHa3aojAKHYyHv2Tn2o1qU78dFwC9bs\/QA=",
       "url": "BlazorEcom.Client.styles.css"
     },
     {
@@ -873,11 +873,11 @@
       "url": "_framework\/BlazorEcom.Shared.pdb"
     },
     {
-      "hash": "sha256-AdD1t56\/+DTaVQ+8\/SY6IjT\/tXdhmzdhkITbtRwihB0=",
+      "hash": "sha256-pu4XnGVMLfCIF0GaZPeHPIMYuJhBHYdn1LQBgD04JHs=",
       "url": "_framework\/BlazorEcom.Client.dll"
     },
     {
-      "hash": "sha256-S8YtrMQgT224d\/05HzyktyxNixuYUX9H3sWvT5ukJaU=",
+      "hash": "sha256-vXp4kU4e50pZ6VDM63T0Ob9+pXE00Pi1UQupFZacWKQ=",
       "url": "_framework\/BlazorEcom.Client.pdb"
     },
     {
@@ -885,9 +885,9 @@
       "url": "_framework\/blazor.webassembly.js"
     },
     {
-      "hash": "sha256-t9nnqSSoW8FXrmPTKZiwxYYTcHN3H4iTmtyIFhRd6gw=",
+      "hash": "sha256-RZetnaGrXxVBxmJvo8w3fVKrSnGfjUik77a4Q+p0NJY=",
       "url": "_framework\/blazor.boot.json"
     }
   ],
-  "version": "C7xGe76X"
+  "version": "GeHEi1pp"
 };

@@ -9,7 +9,12 @@
     max-height: 500px;
     text-align: center;
 }
+
+
 @media(max-width: 1023.98px) {
+    .media[b-9dbq9p9mkb] {
+        flex-direction: column;
+    }
     .media-img[b-9dbq9p9mkb] {
         max-width: 300px;
     }
