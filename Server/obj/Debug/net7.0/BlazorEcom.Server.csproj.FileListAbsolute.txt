@@ -52,3 +52,8 @@ C:\Users\nordf\OneDrive\Skrivbord\Lekprojekt\BlazorEcom\BlazorEcom\Server\obj\De
 C:\Users\nordf\OneDrive\Skrivbord\Lekprojekt\BlazorEcom\BlazorEcom\Server\obj\Debug\net7.0\BlazorEcom.Server.pdb
 C:\Users\nordf\OneDrive\Skrivbord\Lekprojekt\BlazorEcom\BlazorEcom\Server\obj\Debug\net7.0\BlazorEcom.Server.genruntimeconfig.cache
 C:\Users\nordf\OneDrive\Skrivbord\Lekprojekt\BlazorEcom\BlazorEcom\Server\obj\Debug\net7.0\ref\BlazorEcom.Server.dll
+C:\Users\nordf\OneDrive\Skrivbord\Lekprojekt\BlazorEcom\BlazorEcom\Server\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\nordf\OneDrive\Skrivbord\Lekprojekt\BlazorEcom\BlazorEcom\Server\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\nordf\OneDrive\Skrivbord\Lekprojekt\BlazorEcom\BlazorEcom\Server\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\nordf\OneDrive\Skrivbord\Lekprojekt\BlazorEcom\BlazorEcom\Server\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\nordf\OneDrive\Skrivbord\Lekprojekt\BlazorEcom\BlazorEcom\Server\obj\Debug\net7.0\BlazorEcom.Server.MvcApplicationPartsAssemblyInfo.cs

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Oq8gHNCFZZi5qsY5N3wbtIFOc4HJBkbKUvHn/n5XIvqkB+DxoJy7JrAFtARDbzG2Wivg9AYcCIltQ3AMQszJcA==",
+  "dgSpecHash": "W0zfVzXpuLenV4zkv9ZFS5lL692rlbWBwfmyUGBIbnWWTtLRa22+CtHfgnCchzQ6i1VQnJQ6W2jtG+gyU+bVdQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\nordf\\OneDrive\\Skrivbord\\Lekprojekt\\BlazorEcom\\BlazorEcom\\Server\\BlazorEcom.Server.csproj",
   "expectedPackageFiles": [
@@ -12,6 +12,7 @@
     "C:\\Users\\nordf\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly\\7.0.3\\microsoft.aspnetcore.components.webassembly.7.0.3.nupkg.sha512",
     "C:\\Users\\nordf\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly.server\\7.0.3\\microsoft.aspnetcore.components.webassembly.server.7.0.3.nupkg.sha512",
     "C:\\Users\\nordf\\.nuget\\packages\\microsoft.aspnetcore.metadata\\7.0.3\\microsoft.aspnetcore.metadata.7.0.3.nupkg.sha512",
+    "C:\\Users\\nordf\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\nordf\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0\\microsoft.extensions.configuration.7.0.0.nupkg.sha512",
     "C:\\Users\\nordf\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
     "C:\\Users\\nordf\\.nuget\\packages\\microsoft.extensions.configuration.binder\\7.0.3\\microsoft.extensions.configuration.binder.7.0.3.nupkg.sha512",
@@ -28,6 +29,11 @@
     "C:\\Users\\nordf\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
     "C:\\Users\\nordf\\.nuget\\packages\\microsoft.jsinterop\\7.0.3\\microsoft.jsinterop.7.0.3.nupkg.sha512",
     "C:\\Users\\nordf\\.nuget\\packages\\microsoft.jsinterop.webassembly\\7.0.3\\microsoft.jsinterop.webassembly.7.0.3.nupkg.sha512",
+    "C:\\Users\\nordf\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\nordf\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\nordf\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\nordf\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\nordf\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512",
     "C:\\Users\\nordf\\.nuget\\packages\\system.io.pipelines\\7.0.0\\system.io.pipelines.7.0.0.nupkg.sha512",
     "C:\\Users\\nordf\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
     "C:\\Users\\nordf\\.nuget\\packages\\system.text.json\\7.0.0\\system.text.json.7.0.0.nupkg.sha512"
