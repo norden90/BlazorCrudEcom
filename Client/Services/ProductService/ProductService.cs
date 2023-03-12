@@ -12,7 +12,7 @@ public class ProductService : IProductService
         _http = http;
     }
 
-    public event Action? ProductsChanged;
+    public event Action ProductsChanged;
     public List<Product> Products { get; set; } = new List<Product>();
    
     public async Task GetProducts(string? categoryUrl = null)
